@@ -1,0 +1,24 @@
+/*
+ Theme Name: Resume
+ Theme URI: http://demo.newtemplate.net/resume/index.html
+ Author: NewTemplate
+ Author URI: https://themeforest.net/user/newtemplete
+ Version: 0.1
+ Description:  Resume One Page HTML5 Theme comes out with tons of powerful features. Its modern, attractive and clean design.
+*/
+
+.triangle-area {
+    height: 700px;
+    -webkit-clip-path: polygon(50% 0%, 100% 0, 100% 75%, 50% 100%, 0% 75%, 0 0);
+    clip-path: polygon(50% 0%, 100% 0, 100% 75%, 50% 100%, 0% 75%, 0 0);
+}
+
+.home-area .home-content{
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+
+.home-area .image-item{
+    top: -45px;
+}
+
